@@ -1,4 +1,4 @@
-![logo](https://github.com/omjbhaleraowork/omjbhaleraowork/blob/main/banner.jpeg)
+<img align="center" height="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
 
 <h1 align="center">Hi 👋, I'm Om J Bhalerao😎</h1>
 
