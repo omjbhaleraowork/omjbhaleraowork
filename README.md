@@ -1,7 +1,5 @@
-<img align="center" height="150" src="https://github.com/omjbhaleraowork/omjbhaleraowork/blob/main/BANNER.png"  />
-
+![banner](https://github.com/omjbhaleraowork/omjbhaleraowork/assets/132902265/39586d46-786e-436d-be22-b92cb03c9fc5)
 <h1 align="center">Hi 👋, I'm Om J Bhalerao😎</h1>
-
 <br>CDAC aspirant, Highly passionate and motivated to become a software developer, Sharpening my skills day-by-day...to be a lethal developer.</h4>
 <br>
 ### 😃 Socials: <br>
