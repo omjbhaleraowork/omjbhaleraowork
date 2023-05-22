@@ -1,8 +1,9 @@
 ![newban](https://github.com/omjbhaleraowork/omjbhaleraowork/assets/132902265/b1f162ca-86cf-4460-8a15-977ad4ab1c6e)
 <h1 align="center">Hi 👋, I'm Om J Bhalerao😎</h1>
 <br>CDAC aspirant, Highly passionate and motivated to become a software developer, Sharpening my skills day-by-day...to be a lethal developer.</h4>
-<br>
-### 😃 Socials: <br>
+<br> 
+
+###  😃 Socials: <br>
 <div align="left">
   <a href="omjbhaleraowork@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -17,7 +18,7 @@
 
 
 ###
-###  Github Stats🤞
+###   📊Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omjbhaleraowork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
